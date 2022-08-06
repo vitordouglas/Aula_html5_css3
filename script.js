@@ -1,0 +1,1 @@
+alert("Olá me chamo Douglas Vitor, e vamos iniciar os estudos?");
